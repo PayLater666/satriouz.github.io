@@ -1,5 +1,5 @@
-# AyraHikari.github.io
-https://AyraHikari.github.io
+# Satriouz.github.io
+https://satriouz.github.io
 
 # Credits:
 - RenanQueiroz for base
